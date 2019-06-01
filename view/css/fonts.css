@@ -1,0 +1,17 @@
+@font-face
+{
+    font-family: Comfortaa;
+    src:url(..\fonts\Comfortaa.ttf);
+}
+
+@font-face
+{
+    font-family: SourceSansPro-Light;
+    src:url(..\fonts\SourceSansPro-Light.ttf);
+}
+
+@font-face
+{
+    font-family: SourceSansPro-Regular;
+    src:url(..\fonts\SourceSansPro-Regular.ttf);
+}

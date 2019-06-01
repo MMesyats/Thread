@@ -1,0 +1,11 @@
+{
+    "write":"user/write",
+    "user/([0-9]+)":"user/profile/$1",
+    "login":"user/login",
+    "registration":"user/registration",
+    "posts/user/([0-9]+)":"post/userPosts/$1",
+    "post/([0-9]+)":"post/single/$1",
+    "new":"post/new",
+    "popular":"post/popular",
+    "":"post/popular"
+}
